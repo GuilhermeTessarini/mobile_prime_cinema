@@ -1,50 +1,127 @@
-# Welcome to your Expo app 👋
+# Mobile Prime cinema 🎬
 
-This is an [Expo](https://expo.dev) project created with [`create-expo-app`](https://www.npmjs.com/package/create-expo-app).
+Um aplicativo móvel moderno desenvolvido com [Expo](https://expo.dev) e React Native, com recursos de descoberta de filmes e detalhes.  
 
-## Get started
+---
 
-1. Install dependencies
+## 🚀 Funcionalidades
 
-   ```bash
-   npm install
-   ```
+- Navegue e pesquise filmes
+- Veja informações detalhadas dos filmes
+- Salve seus filmes favoritos
+- Navegação personalizada por abas
+- Design responsivo para Android e iOS
 
-2. Start the app
+---
 
-   ```bash
-   npx expo start
-   ```
+## 🛠 Tecnologias Utilizadas
 
-In the output, you'll find options to open the app in a
+![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Expo](https://img.shields.io/badge/Expo-000020?style=for-the-badge&logo=expo&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![React Navigation](https://img.shields.io/badge/React_Navigation-000000?style=for-the-badge&logo=react-router&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![Appwrite](https://img.shields.io/badge/Appwrite-F02E65?style=for-the-badge&logo=appwrite&logoColor=white)
 
-- [development build](https://docs.expo.dev/develop/development-builds/introduction/)
-- [Android emulator](https://docs.expo.dev/workflow/android-studio-emulator/)
-- [iOS simulator](https://docs.expo.dev/workflow/ios-simulator/)
-- [Expo Go](https://expo.dev/go), a limited sandbox for trying out app development with Expo
+---
 
-You can start developing by editing the files inside the **app** directory. This project uses [file-based routing](https://docs.expo.dev/router/introduction).
+## 📦 Instalação
 
-## Get a fresh project
-
-When you're ready, run:
+Clone o repositório e instale as dependências:
 
 ```bash
-npm run reset-project
+git clone https://github.com/seu-usuario/mobile_movie_app.git
+cd mobile_movie_app
+npm install
 ```
 
-This command will move the starter code to the **app-example** directory and create a blank **app** directory where you can start developing.
+---
 
-## Learn more
+## ▶️ Executando o App
 
-To learn more about developing your project with Expo, look at the following resources:
+Inicie o servidor de desenvolvimento:
 
-- [Expo documentation](https://docs.expo.dev/): Learn fundamentals, or go into advanced topics with our [guides](https://docs.expo.dev/guides).
-- [Learn Expo tutorial](https://docs.expo.dev/tutorial/introduction/): Follow a step-by-step tutorial where you'll create a project that runs on Android, iOS, and the web.
+```bash
+npx expo start
+```
 
-## Join the community
+Você pode abrir o app em:
 
-Join our community of developers creating universal apps.
+- [Expo Go](https://expo.dev/go) (escaneie o QR code)
+- [Emulador Android](https://docs.expo.dev/workflow/android-studio-emulator/)
+- [Simulador iOS](https://docs.expo.dev/workflow/ios-simulator/)
+- [Build de desenvolvimento](https://docs.expo.dev/develop/development-builds/introduction/)
 
-- [Expo on GitHub](https://github.com/expo/expo): View our open source platform and contribute.
-- [Discord community](https://chat.expo.dev): Chat with Expo users and ask questions.
+---
+
+## 🗂️ Estrutura do Projeto
+
+- **app/**: Código-fonte e telas (roteamento baseado em arquivos)
+- **constants/**: Ícones, imagens e configurações
+- **services/**: Lógica de API e busca de dados
+
+---
+
+# Mobile Prime cinema 🎬 - EN
+
+A modern mobile app built with [Expo](https://expo.dev) and React Native, featuring movie discovery and details.  
+
+---
+
+## 🚀 Features
+
+- Browse and search for movies
+- View detailed movie information
+- Save favorite movies
+- Beautiful custom tab navigation
+- Responsive design for Android & iOS
+
+---
+
+## 🛠 Technologies Used
+
+![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Expo](https://img.shields.io/badge/Expo-000020?style=for-the-badge&logo=expo&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![React Navigation](https://img.shields.io/badge/React_Navigation-000000?style=for-the-badge&logo=react-router&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![Appwrite](https://img.shields.io/badge/Appwrite-F02E65?style=for-the-badge&logo=appwrite&logoColor=white)
+
+---
+
+## 📦 Installation
+
+Clone the repository and install dependencies:
+
+```bash
+git clone https://github.com/seu-usuario/mobile_movie_app.git
+cd mobile_movie_app
+npm install
+```
+
+---
+
+## ▶️ Running the App
+
+Start the development server:
+
+```bash
+npx expo start
+```
+
+You can open the app in:
+
+- [Expo Go](https://expo.dev/go) (scan QR code)
+- [Android emulator](https://docs.expo.dev/workflow/android-studio-emulator/)
+- [iOS simulator](https://docs.expo.dev/workflow/ios-simulator/)
+- [Development build](https://docs.expo.dev/develop/development-builds/introduction/)
+
+---
+
+## 🗂️ Project Structure
+
+- **app/**: Source code and screens (file-based routing)
+- **constants/**: Icons, images, and configuration
+- **services/**: API and
