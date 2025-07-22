@@ -8,7 +8,6 @@ Um aplicativo móvel moderno desenvolvido com [Expo](https://expo.dev) e React N
 
 - Navegue e pesquise filmes
 - Veja informações detalhadas dos filmes
-- Salve seus filmes favoritos
 - Navegação personalizada por abas
 - Design responsivo para Android e iOS
 
@@ -73,7 +72,6 @@ A modern mobile app built with [Expo](https://expo.dev) and React Native, featur
 
 - Browse and search for movies
 - View detailed movie information
-- Save favorite movies
 - Beautiful custom tab navigation
 - Responsive design for Android & iOS
 
